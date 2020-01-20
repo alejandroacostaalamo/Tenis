@@ -12,22 +12,6 @@ URL to parse: http://miranda.fvtenis.com.ve/app/bsindexLoadCalendario.php
 Julio - Agosto 2018
 Added Leyenda April 2019
 
-rdl7600@gmail.com Rafael de Lima ATC
-fnunez@termofluidos.com.ve Frank Nunez
-Nanynacad@yahoo.com  Adriana Nacad (solicitado por Rafael de Lima)
-idoia582@gmail.com Idoia Sagarzazu
-Ramnysg19@hotmail.com
-Ramnysgarcia19@gmail.com
-tenisatem@gmail.com  Tenis ATEM Cathy
-Jose Luis Lopez <lopezjoseluis74@gmail.com>  Profe tenis
-antonioyamin@gmail.com  Papa de Antoin Yamin
-wblascof00@hotmail.com  William Blasco CRC
-inv.adleca@gmail.com Luis Perez CRC
-Lauramaurizio@gmail.com Laura Maurizio CIV
-coelho.egidio@gmail.com Solicitado por Luis Perez. Sep 2019
-blaher.sosa@gmail.com  William Blasco Oct 2019
-Vcabrera03@gmail.com Veronica Cabrera
-pcozzolino@euroquim.com
 
 '''
 
